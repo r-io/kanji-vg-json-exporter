@@ -1,0 +1,1 @@
+Export kanji based on http://kanjivg.tagaini.net into a single JSON file
